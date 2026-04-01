@@ -33,8 +33,6 @@ requirements.txt: Environment configuration for project replication.
 Installation and Usage
 Clone the repository:
 
-Bash
-git clone https://github.com/your-username/repository-name.git
 Install dependencies:
 
 Bash
