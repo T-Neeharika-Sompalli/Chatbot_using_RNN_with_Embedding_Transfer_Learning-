@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "text": [
+        "Hi",
+        "Hello",
+        "Is anyone there?",
+        "Good day",
+        "Hey"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there, what can I do for you?",
+        "Greetings! How are you doing?"
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "text": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "I am leaving",
+        "Have a good day"
+      ],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "See you later!",
+        "Take care, bye!"
+      ]
+    },
+    {
+      "intent": "medical_query",
+      "text": [
+        "What are the symptoms of diabetes?",
+        "How is diabetes treated?",
+        "Tell me about high blood sugar",
+        "What should I eat if I have diabetes?"
+      ],
+      "responses": [
+        "Common symptoms include increased thirst and frequent urination.",
+        "Treatment often involves diet, exercise, and sometimes medication.",
+        "It is best to consult a medical professional for personalized advice."
+      ]
+    }
+  ]
+}
